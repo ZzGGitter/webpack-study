@@ -1,0 +1,9 @@
+# npm 
+/node_modules/
+
+# build
+/build
+
+package-lock.json
+
+npm-debug.log*
